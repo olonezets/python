@@ -1,4 +1,2 @@
-# kadry
-calculation script
-
-the amount of vacation between dates 
+same script on python
+___________________________________________________________________________________________________________________________________
